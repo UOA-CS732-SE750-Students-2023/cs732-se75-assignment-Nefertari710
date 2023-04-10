@@ -1,11 +1,24 @@
 # Hint
 1. Install react
-```shell
-npm install
-npm run dev
-```
-1. Install React-route-dom
-2. Install Three react-three-fiber
+	```shell
+	npm install
+	```
+2. Install React-route-dom
+	```shell
+	npm install react-router-dom
+	```
+3. Install Three react-three-fiber
+	```shell
+	npm install react-three-fiber
+	```
+4. Install Parallax	
+	```shell
+	npm install react-scroll-parallax
+	```
+5. Run Code
+	```shell
+	npm run dev
+	```
 # Usage
 ## Install
 1. Use npm install
