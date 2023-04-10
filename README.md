@@ -1,4 +1,9 @@
 # Hint
+1. Install react
+```shell
+npm install
+npm run dev
+```
 1. Install React-route-dom
 2. Install Three react-three-fiber
 # Usage
