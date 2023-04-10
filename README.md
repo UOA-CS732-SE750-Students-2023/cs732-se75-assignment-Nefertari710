@@ -1,5 +1,5 @@
 # Hint
-1. Install react
+1. Install npm
 	```shell
 	npm install
 	```
